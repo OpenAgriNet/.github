@@ -3,7 +3,8 @@
 **Transforming Global Agriculture Through Digital Innovation** 🌍
 
 OpenAgriNet is a global alliance dedicated to revolutionizing agriculture through **Digital Public Infrastructure (DPI)** and **AI-powered solutions**. By uniting governments, innovators, organizations, and farmers across five continents, we aim to build a **resilient, inclusive, data-driven agricultural ecosystem**. 
-OpenAgriNet (OAN), Global network transforming agriculture via DPI & AI. Code created and curated by IIIT Bangalore (IIITB).
+
+**OpenAgriNet (OAN), Global network transforming agriculture via DPI & AI. Code created and curated by IIIT Bangalore (IIITB)**.
 
 ---
 
